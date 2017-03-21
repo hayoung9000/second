@@ -9,6 +9,7 @@
         android:layout_height="wrap_content"
         android:text="@string/but_str1"
         android:layout_margin="20dp"
+        android:background="#9e2a2a"
         />
     <Button
         android:layout_width="match_parent"
